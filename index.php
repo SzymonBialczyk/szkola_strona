@@ -163,6 +163,79 @@
     </nav>
 
 
+    <section>
+
+        <h2>Mapa dojazdu</h2>
+
+        <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2559.320502881506!2d20.01596401584603!3d50.09900767942842!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47164553a7b355a3%3A0x20aab41b161cb13c!2zWmVzcMOzxYIgU3prw7PFgiBTYWxlemphxYRza2ljaCB3IEtyYWtvd2ll!5e0!3m2!1spl!2spl!4v1518977761913"
+            width="600" height="300" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+
+
+    </section>
+
+    <section>
+
+        <h2>Kontakt</h2>
+        <div>
+            <b>Publiczne Salezjańskie Liceum Ogólnokształcące w Krakowie</b>
+            <p>os. Piastów 34 31-624 Kraków</p>
+            <p>Administratorem danych osobowych jest ks. mgr inż. Piotr Pawelec, Dyrektor Publicznego Salezjańskiego
+                Liceum Ogólnokształcącego w Krakowie os. Piastów 34, 31-624 Kraków</p>
+            <p>Inspektorem Ochrony Danych jest mgr Joanna Konik, tel: (012) 648-04-89 (w. 31).</p>
+        </div>
+        <div>
+            <a href="12 648 04 89"></a>
+            <a href="12 642 67 21"></a>
+            <a href="szkolanh@salezjanie.com"></a>
+        </div>
+    </section>
+
+    <footer>
+
+        <div>
+            <ul>
+                <b>Salezjanie</b>
+                <li><a href="#">Wspólnota pw. Błogosławionego Augusta Czartoryskiego</a></li>
+                <li><a href="#">Inspektoria Krakowska</a></li>
+                <li><a href="#">Wyższe Seminarium Duchowne Towarzystwa Salezjańskiego</a></li>
+                <li><a href="#">Salezjanie na świecie</a></li>
+            </ul>
+        </div>
+
+        <div>
+            <ul>
+                <b>Dla uczniów</b>
+                <li><a href="#">Olimpiady dla uczniów liceum</a></li>
+                <li><a href="#">Mistrzowie matematyki</a></li>
+                <li><a href="#">Egzamin maturalny</a></li>
+            </ul>
+        </div>
+        <div>
+            <ul>
+                <b>Dla kandydatów</b>
+                <li><a href="#">Oferta edukacyjna</a></li>
+                <li><a href="#">Proponowane klasy pierwsze</a></li>
+                <li><a href="#">Rekrutacja elektroniczna</a></li>
+                <li><a href="#">Internaty i bursy</a></li>
+                <li><a href="#">Zobacz nas na Facebooku</a></li>
+            </ul>
+
+        </div>
+
+        <div>
+            <ul>
+                <b>Inne</b>
+                <li><a href="#">BIP</a></li>
+                <li><a href="#">Kalendarium</a></li>
+                <li><a href="#">Plan lekcji</a></li>
+                <li><a href="#">Dyżury nauczycieli</a></li>
+                <li><a href="#">Bezpieczna szkoła</a></li>
+            </ul>
+
+        </div>
+    </footer>
+
 </body>
 
 </html>
