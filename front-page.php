@@ -55,7 +55,7 @@
     <a href="<?php echo get_permalink(); ?>">
         <h2><?php the_title(); ?></h2>
     </a>
-    <small><?php the_time('F jS, Y'); ?> by <?php the_author_posts_link(); ?></small>
+    <small><?php the_time('d.m.Y'); ?> by <?php the_author_posts_link(); ?></small>
     <span><?php the_category(); ?></span>
 
     <?php
@@ -85,7 +85,7 @@
     <a href="<?php echo get_permalink(); ?>">
         <h2><?php the_title(); ?></h2>
     </a>
-    <small><?php the_time('F jS, Y'); ?> by <?php the_author_posts_link(); ?></small>
+    <small><?php the_time('d.m.Y'); ?> by <?php the_author_posts_link(); ?></small>
     <span><?php the_category(); ?></span>
 
     <?php
@@ -186,7 +186,7 @@
 
     <iframe
         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2559.320502881506!2d20.01596401584603!3d50.09900767942842!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47164553a7b355a3%3A0x20aab41b161cb13c!2zWmVzcMOzxYIgU3prw7PFgiBTYWxlemphxYRza2ljaCB3IEtyYWtvd2ll!5e0!3m2!1spl!2spl!4v1518977761913"
-        width="600" height="300" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+        width="600" height="400" frameborder="0" style="border:0" allowfullscreen=""></iframe>
 
 
 </section>
