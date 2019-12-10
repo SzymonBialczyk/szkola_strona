@@ -1,4 +1,4 @@
-<h2>single.php</h2>
+
 
 <?php 
     if ( have_posts() ) {
