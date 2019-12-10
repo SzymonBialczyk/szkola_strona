@@ -1,3 +1,5 @@
+<h1><?php single_term_title() ?></h1>
+
 <?php
    
    if ( have_posts() ) {
