@@ -55,7 +55,7 @@
     <a href="<?php echo get_permalink(); ?>">
         <h2><?php the_title(); ?></h2>
     </a>
-    <small><?php the_time('d.m.Y'); ?> by <?php the_author_posts_link(); ?></small>
+    <small><?php the_time('d.m.Y'); ?> </small>
     <span><?php the_category(); ?></span>
 
     <?php
@@ -85,7 +85,7 @@
     <a href="<?php echo get_permalink(); ?>">
         <h2><?php the_title(); ?></h2>
     </a>
-    <small><?php the_time('d.m.Y'); ?> by <?php the_author_posts_link(); ?></small>
+    <small><?php the_time('d.m.Y'); ?> </small>
     <span><?php the_category(); ?></span>
 
     <?php
